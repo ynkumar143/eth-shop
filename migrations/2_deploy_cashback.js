@@ -1,5 +1,5 @@
-var Cashback = artifacts.require("./Cashback.sol");
+var Whitelist = artifacts.require("./Whitelist.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Cashback);
+  deployer.deploy(Whitelist);
 };

@@ -1,8 +1,8 @@
 
 var HDWalletProvider = require("truffle-hdwallet-provider");
 
-var infura_apikey = "your api key";
-var mnemonic = "your mnemoic key";
+var infura_apikey = "8968b8c3167b44ff8c0387bae8241558";
+var mnemonic = "wait easily guard wet immense exile club card turtle antenna express laptop";
 
 
 
